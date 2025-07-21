@@ -1,3 +1,5 @@
+--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--
+
 Tab Title Picker
 
 Tab Title Picker is a lightweight Chrome Extension that allows you to quickly retrieve the title of your current browser tab with the click of a button. It's a handy tool for developers, researchers, or anyone needing to grab tab titles on the go.
