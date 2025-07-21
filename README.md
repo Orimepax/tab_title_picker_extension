@@ -44,7 +44,7 @@ popup.js	  Handles logic to fetch and display the tab title.
 
 <img width="341" height="213" alt="Screenshot 2025-07-21 at 4 08 31 PM" src="https://github.com/user-attachments/assets/9dbbd846-460a-43ab-b706-edb94aa51fa4" />
 
-__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__.__
+--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--
 
 
 
